@@ -9,15 +9,15 @@ wsgiref==0.1.2
 
 **What do all these packages do?**
 
-Flask uses Click (Command 
-Line Interface Creation Kit) for its command-line 
-interface, which allows you to add custom shell commands 
-for your app.
+Flask uses Click (Command Line Interface Creation Kit) 
+for its command-line interface, which allows you to add 
+custom shell commands for your app.
 
 ItsDangerous provides security when sending 
 data using cryptographical signing.
 
-Jinja2 is a powerful template engine for Python, while 
+Jinja2 is a powerful template engine for Python.
+
 MarkupSafe is a HTML string handling library.
 
 Werkzeug is a utility library for WSGI, a protocol that 
